@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #bebfc0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    margin: 10px 30px 10px 30px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.heading {
+    background-color: #ffffff;
+}
+
+.para1 {
+    margin: 10px 30px 0px 30px;
+    background-color: #0087c6;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para2 {
+    margin: 0px 30px;
+    background-color: #0094d1;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.para3 {
+    margin: 0px 30px;
+    background-color: #00a0d9;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para4 {
+    margin: 0px 30px;
+    background-color: #00aadf;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para5 {
+    margin: 0px 30px;
+    background-color: #00b8e8;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para6 {
+    margin: 0px 30px;
+    background-color: #48c3ed;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para7 {
+    margin: 0px 30px;
+    background-color: #77cef0;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para8 {
+    margin: 0px 30px;
+    background-color: #00b789;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para9 {
+    margin: 0px 30px;
+    background-color: #ffacc9;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para10 {
+    margin: 0px 30px;
+    background-color: #ff98bd;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para11 {
+    margin: 0px 30px;
+    background-color: #ff88b0;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para12 {
+    margin: 0px 30px;
+    background-color: #ff71a0;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para13 {
+    margin: 0px 30px;
+    background-color: #ff5f91;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para14 {
+    margin: 0px 30px;
+    background-color: #ff4984;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.para15 {
+    margin: 0px 30px;
+    background-color: #ff4984;
+    padding: 9px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
